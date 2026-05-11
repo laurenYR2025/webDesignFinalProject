@@ -10,12 +10,12 @@ body {
 
 /* Background colour helper for pages that use the orange theme */
 .bg-one{
-  background-color: rgb(255, 165, 24);
+  background-color: rgb(255, 24, 232);
 }
 
 /* Background colour helper for pages that use the green theme */
 .bg-two{
-  background-color: rgb(24, 255, 165);
+  background-color: rgb(236, 24, 255);
 }
 
 /* Center the main page title area */
