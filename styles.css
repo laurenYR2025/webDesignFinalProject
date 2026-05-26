@@ -2,7 +2,6 @@
 body {
   margin: 0;
   padding: 24px;
-  background-color: rgb(240, 248, 255);
   color: rgb(26, 58, 92);
   font-family: Verdana, sans-serif;
   line-height: 1.5;
@@ -10,7 +9,7 @@ body {
 
 /* Background colour helper for pages that use the orange theme */
 .bg-one{
-  background-color: rgb(255, 24, 232);
+  background-color: rgb(128, 0, 128);
 }
 
 /* Background colour helper for pages that use the green theme */
